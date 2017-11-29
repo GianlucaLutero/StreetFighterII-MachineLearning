@@ -1,0 +1,2 @@
+AlphaGo Zero paper
+https://deepmind.com/blog/alphago-zero-learning-scratch/
