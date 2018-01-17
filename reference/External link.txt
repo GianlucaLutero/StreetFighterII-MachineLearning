@@ -3,3 +3,6 @@ https://deepmind.com/blog/alphago-zero-learning-scratch/
 
 Stima per il learning rate
 https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0
+
+Tutorial agente
+https://itnext.io/add-smart-attacking-to-your-pysc2-agent-17fd5caad578
