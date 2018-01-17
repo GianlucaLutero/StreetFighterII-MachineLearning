@@ -1,2 +1,5 @@
 AlphaGo Zero paper
 https://deepmind.com/blog/alphago-zero-learning-scratch/
+
+Stima per il learning rate
+https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0
