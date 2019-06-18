@@ -1,0 +1,33 @@
+{
+  "done": {
+    "variables": {
+      "endgame-easy": {
+        "op": "equal",
+        "reference": 1
+      },
+      "enemy_matches_won": {
+        "op": "equal",
+        "reference": 2
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "enemy_matches_won": {
+        "penalty": 100.0
+      },
+      "enemy_health": {
+        "reward": 1.5
+      },
+      "health": {
+        "penalty": 1.0
+      },
+      "matches_won": {
+        "reward": 150.0
+      },
+      "score": {
+        "reward": 0.01
+      }
+    }
+  }
+}

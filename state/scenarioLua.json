@@ -1,0 +1,20 @@
+{
+   "done": {
+    "variables": {
+      "endgame-easy": {
+        "op": "equal",
+        "reference": 1
+      },
+      "enemy_matches_won": {
+        "op": "equal",
+        "reference": 2
+      }
+    }
+  },
+  "reward": {
+    "utility": "lua:reward" 
+  },
+  "scripts": [
+      "utility.lua"
+    ]
+}
